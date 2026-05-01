@@ -153,26 +153,25 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 
 ## 📊 &nbsp;GitHub Stats
 
-<!-- anuraghazra/github-readme-stats -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ESTAS-crypto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com?user=ESTAS-crypto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak"/>
-  </a>
-</div>
 
-<br/>
+<!-- Stats & Streak Side by Side -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESTAS-crypto&theme=github_dark" alt="Stats"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ESTAS-crypto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak"/>
+</a>
 
-<!-- Top Languages from anuraghazra/github-readme-stats -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTAS-crypto&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTAS-crypto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&card_width=450&cache_seconds=86400" alt="Top Languages Compact"/>
-  </a>
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ESTAS-crypto&theme=github_dark" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ESTAS-crypto&theme=github_dark" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<!-- Profile Details -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESTAS-crypto&theme=github_dark" alt="Profile Details"/>
+
 </div>
 
 <br/>
@@ -190,14 +189,8 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 <br/>
 <div align="center">
 
-<!-- Profile Summary Cards (alternative service, always reliable) -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ESTAS-crypto&theme=github_dark" alt="Repos per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ESTAS-crypto&theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ESTAS-crypto&theme=github_dark&utcOffset=7" alt="Productive Time"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESTAS-crypto&theme=github_dark" alt="Profile Details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ESTAS-crypto&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESTAS-crypto&theme=github_dark" alt="Stats Card"/>
 
 </div>
 </details>
@@ -240,8 +233,9 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Contribution Snake
+## 🎮 &nbsp;Contribution Games
 
+### 🐍 Snake Animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/github-snake-dark.svg" />
@@ -250,7 +244,16 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
   </picture>
 </div>
 
-> 💡 **Note:** Snake animation akan muncul setelah kamu push ke GitHub dan menjalankan workflow di tab **Actions**.
+<br/>
+
+### 🧊 3D Contribution Calendar
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3d-contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+  </picture>
+</div>
 
 <br/>
 
