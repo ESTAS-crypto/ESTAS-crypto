@@ -153,26 +153,25 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 
 ## 📊 &nbsp;GitHub Stats
 
-<!-- Stats Cards from anuraghazra/github-readme-stats -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ESTAS-crypto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ESTAS-crypto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak"/>
-  </a>
-</div>
 
-<br/>
+<!-- Stats & Streak Side by Side -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESTAS-crypto&theme=github_dark" alt="Stats"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ESTAS-crypto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak"/>
+</a>
 
-<!-- Top Languages Cards -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTAS-crypto&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Donut"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESTAS-crypto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&card_width=450" alt="Top Languages Compact"/>
-  </a>
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ESTAS-crypto&theme=github_dark" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ESTAS-crypto&theme=github_dark" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<!-- Profile Details Full Width -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESTAS-crypto&theme=github_dark" alt="Profile Details"/>
+
 </div>
 
 <br/>
@@ -190,14 +189,8 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 <br/>
 <div align="center">
 
-<!-- Profile Summary Cards -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ESTAS-crypto&theme=github_dark" alt="Repos per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ESTAS-crypto&theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ESTAS-crypto&theme=github_dark&utcOffset=7" alt="Productive Time"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESTAS-crypto&theme=github_dark" alt="Profile Details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ESTAS-crypto&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ESTAS-crypto&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9&type=png" alt="Streak Backup"/>
 
 </div>
 </details>
@@ -220,40 +213,18 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 
 ## 🚀 &nbsp;Featured Projects
 
-<!-- Pin Cards from anuraghazra/github-readme-stats -->
 <div align="center">
 
-<a href="https://github.com/ESTAS-crypto/portofolio">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=portofolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/ESTAS-crypto/TRYOUT-SNBT">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=TRYOUT-SNBT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="TRYOUT-SNBT"/>
-</a>
-
-<a href="https://github.com/ESTAS-crypto/GenZMart-PRO">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=GenZMart-PRO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GenZMart-PRO"/>
-</a>
-&nbsp;
-<a href="https://github.com/ESTAS-crypto/nextjs-ai-chatbot">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=nextjs-ai-chatbot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="AI Chatbot"/>
-</a>
-
-<a href="https://github.com/ESTAS-crypto/AI-GRATIS">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=AI-GRATIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="AI-GRATIS"/>
-</a>
-&nbsp;
-<a href="https://github.com/ESTAS-crypto/ManajemenKeuangan">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=ManajemenKeuangan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Manajemen Keuangan"/>
-</a>
-
-<a href="https://github.com/ESTAS-crypto/track-location">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=track-location&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Track Location"/>
-</a>
-&nbsp;
-<a href="https://github.com/ESTAS-crypto/Laporan-ibuk-">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ESTAS-crypto&repo=Laporan-ibuk-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Laporan"/>
-</a>
+| # | Project | Description | Tech |
+|:---:|:---|:---|:---:|
+| 🌐 | **[portofolio](https://github.com/ESTAS-crypto/portofolio)** | Personal portfolio website with modern UI/UX | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 📝 | **[TRYOUT-SNBT](https://github.com/ESTAS-crypto/TRYOUT-SNBT)** | SNBT exam simulation platform with 340+ questions | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🛒 | **[GenZMart-PRO](https://github.com/ESTAS-crypto/GenZMart-PRO)** | E-commerce platform for Gen-Z marketplace | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| 🤖 | **[nextjs-ai-chatbot](https://github.com/ESTAS-crypto/nextjs-ai-chatbot)** | AI-powered chatbot built with Next.js | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 💡 | **[AI-GRATIS](https://github.com/ESTAS-crypto/AI-GRATIS)** | Free AI tools collection | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 💰 | **[ManajemenKeuangan](https://github.com/ESTAS-crypto/ManajemenKeuangan)** | Financial management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| 📍 | **[track-location](https://github.com/ESTAS-crypto/track-location)** | Location tracking tool with Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 📊 | **[Laporan-ibuk-](https://github.com/ESTAS-crypto/Laporan-ibuk-)** | Report management system | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 </div>
 
