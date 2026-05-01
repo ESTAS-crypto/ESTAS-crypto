@@ -246,12 +246,12 @@ fun_fact: "I believe every line of code is a step toward innovation 💡"
 
 <br/>
 
-### 🧊 3D Contribution Calendar
+### 👾 Pac-Man Game
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3d-contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
 
