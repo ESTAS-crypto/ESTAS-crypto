@@ -2,13 +2,12 @@
 <div align="center">
 
 <a href="https://github.com/ESTAS-crypto/portofolio">
-  <img width="100%" alt="Evan Atharasya, Full-Stack Developer. Animated banner with a terminal, code card and tech stack chips." src="./assets/header.svg" />
+  <img width="100%" alt="Evan Atharasya, Full-Stack Developer. Animated banner with a terminal, code card and tech stack chips." src="./header.svg" />
 </a>
 
 <br/>
 
 <a href="https://github.com/ESTAS-crypto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ESTAS-crypto?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" /></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ESTAS-crypto&label=Profile%20Views&color=1f6feb&style=for-the-badge&abbreviated=true" />
 
 <br/><br/>
 
@@ -19,7 +18,7 @@
 
 </div>
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
@@ -41,7 +40,7 @@ const evan = {
 } as const;
 ```
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
 
@@ -84,7 +83,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ SERVICES ═══════════════════════════ -->
 
@@ -100,7 +99,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -123,7 +122,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
@@ -142,21 +141,17 @@ const evan = {
 </div>
 
 <details>
-<summary><b>⚡ More analytics &amp; trophies</b></summary>
+<summary><b>⚡ More analytics</b></summary>
 <br/>
 <div align="center">
 
 <img width="49%" alt="Productive time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ESTAS-crypto&theme=github_dark&utcOffset=7" />
 <img width="49%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESTAS-crypto&theme=github_dark" />
 
-<br/><br/>
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=ESTAS-crypto&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
 </div>
 </details>
 
-<img alt="" width="100%" src="./assets/divider.svg" />
+<img alt="" width="100%" src="./divider.svg" />
 
 <!-- ═══════════════════════════ GAMES ═══════════════════════════ -->
 
@@ -191,7 +186,7 @@ Star a repo, follow along, or just say hi. Collaboration and feedback are always
 
 <br/>
 
-<img width="100%" alt="Thanks for visiting" src="./assets/footer.svg" />
+<img width="100%" alt="Thanks for visiting" src="./footer.svg" />
 
 <sub>© 2025–2026 Evan Atharasya · <a href="https://github.com/ESTAS-crypto">@ESTAS-crypto</a></sub>
 
