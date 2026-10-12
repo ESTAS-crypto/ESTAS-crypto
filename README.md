@@ -1,34 +1,25 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" alt="Evan Atharasya — Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Evan%20Atharasya&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Indonesia&descSize=18&descAlignY=60&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-  <img alt="Animated tagline: Building digital solutions, exploring AI and automation, turning ideas into code, creating web experiences" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=60&lines=Building+scalable+web+applications;Shipping+AI-powered+tools+%26+chatbots;Automating+the+boring+stuff;Turning+ideas+into+production-ready+code" />
+<a href="https://github.com/ESTAS-crypto/portofolio">
+  <img width="100%" alt="Evan Atharasya, Full-Stack Developer. Animated banner with a terminal, code card and tech stack chips." src="./assets/header.svg" />
 </a>
 
 <br/>
 
 <a href="https://github.com/ESTAS-crypto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ESTAS-crypto?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" /></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ESTAS-crypto&label=Profile%20Views&color=1f6feb&style=for-the-badge&abbreviated=true" />
-<img alt="Based in Indonesia" src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-D7263D?style=for-the-badge" />
-
-<br/>
-
-<img alt="Status: open to freelance work" src="https://img.shields.io/badge/Freelance-Available-2EA043?style=flat-square" />
-<img alt="Open to collaboration" src="https://img.shields.io/badge/Open%20to-Collaboration-8957E5?style=flat-square" />
-<img alt="Focus: full-stack development" src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-1F6FEB?style=flat-square" />
 
 <br/><br/>
 
 <a href="mailto:evanatharasya@gmail.com"><img alt="Email Evan" src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/evanatharasya"><img alt="Evan on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/evanatharasya"><img alt="Evan on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/evanatharasya.x"><img alt="Evan on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/ESTAS-crypto/portofolio"><img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
@@ -50,7 +41,7 @@ const evan = {
 } as const;
 ```
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
 
@@ -93,7 +84,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ SERVICES ═══════════════════════════ -->
 
@@ -109,7 +100,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -132,7 +123,7 @@ const evan = {
 
 </div>
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
@@ -147,10 +138,6 @@ const evan = {
 
 <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ESTAS-crypto&theme=github_dark" />
 <img width="49%" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ESTAS-crypto&theme=github_dark" />
-
-<br/><br/>
-
-<img width="98%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ESTAS-crypto&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -169,7 +156,7 @@ const evan = {
 </div>
 </details>
 
-<img alt="" width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:1F6FEB,100:0D1117" />
+<img alt="" width="100%" src="./assets/divider.svg" />
 
 <!-- ═══════════════════════════ GAMES ═══════════════════════════ -->
 
@@ -204,7 +191,7 @@ Star a repo, follow along, or just say hi. Collaboration and feedback are always
 
 <br/>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=C9D1D9&fontSize=20&fontAlignY=70" />
+<img width="100%" alt="Thanks for visiting" src="./assets/footer.svg" />
 
 <sub>© 2025–2026 Evan Atharasya · <a href="https://github.com/ESTAS-crypto">@ESTAS-crypto</a></sub>
 
