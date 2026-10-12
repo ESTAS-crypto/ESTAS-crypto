@@ -7,14 +7,14 @@
 
 <br/>
 
-<a href="https://github.com/ESTAS-crypto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ESTAS-crypto?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
 <a href="mailto:evanatharasya@gmail.com"><img alt="Email Evan" src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/evanatharasya"><img alt="Evan on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/evanatharasya.x"><img alt="Evan on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/ESTAS-crypto/portofolio"><img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<img width="100%" alt="Technologies I work with: JavaScript, TypeScript, PHP, Python, React, Next.js, Node.js, Laravel, Tailwind, MySQL, MongoDB, Firebase, Supabase, Docker, Git, Figma" src="./marquee.svg" />
 
 </div>
 
@@ -95,7 +95,7 @@ const evan = {
 |:---:|:---:|:---:|:---:|
 | Responsive, fast, and modern UIs with Next.js, React, and Laravel | Storefronts, carts, and admin panels | Chatbots and automation that save hours of manual work | Financial management, reporting, and internal tools |
 
-**[→ Start a conversation](mailto:evanatharasya@gmail.com?subject=Project%20inquiry)**
+<a href="mailto:evanatharasya@gmail.com?subject=Project%20inquiry"><img width="420" alt="Let\'s build something together. Email Evan." src="./cta.svg" /></a>
 
 </div>
 
@@ -107,16 +107,25 @@ const evan = {
 
 <div align="center">
 
+<a href="https://github.com/ESTAS-crypto/nextjs-ai-chatbot"><img width="49%" alt="Next.js AI Chatbot: AI-powered chatbot built with Next.js and TypeScript" src="./project-chatbot.svg" /></a>
+<a href="https://github.com/ESTAS-crypto/GenZMart-PRO"><img width="49%" alt="GenZMart PRO: e-commerce platform for a Gen-Z marketplace, built with PHP" src="./project-genzmart.svg" /></a>
+<a href="https://github.com/ESTAS-crypto/TRYOUT-SNBT"><img width="49%" alt="TRYOUT SNBT: SNBT exam simulation platform with 340+ questions" src="./project-tryout.svg" /></a>
+<a href="https://github.com/ESTAS-crypto/ManajemenKeuangan"><img width="49%" alt="Manajemen Keuangan: financial management system built with PHP" src="./project-keuangan.svg" /></a>
+
+<br/>
+
+<details>
+<summary><b>📂 More projects</b></summary>
+<br/>
+
 | Project | What it does | Stack | Stars |
 |:---|:---|:---:|:---:|
-| 🤖 **[nextjs-ai-chatbot](https://github.com/ESTAS-crypto/nextjs-ai-chatbot)** | AI-powered chatbot built with Next.js | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/ESTAS-crypto/nextjs-ai-chatbot?style=flat-square&color=1f6feb&label=) |
-| 🛒 **[GenZMart-PRO](https://github.com/ESTAS-crypto/GenZMart-PRO)** | E-commerce platform for a Gen-Z marketplace | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/ESTAS-crypto/GenZMart-PRO?style=flat-square&color=1f6feb&label=) |
-| 📝 **[TRYOUT-SNBT](https://github.com/ESTAS-crypto/TRYOUT-SNBT)** | SNBT exam simulation platform with 340+ questions | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/TRYOUT-SNBT?style=flat-square&color=1f6feb&label=) |
-| 💰 **[ManajemenKeuangan](https://github.com/ESTAS-crypto/ManajemenKeuangan)** | Personal and business financial management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/ESTAS-crypto/ManajemenKeuangan?style=flat-square&color=1f6feb&label=) |
 | 🌐 **[portofolio](https://github.com/ESTAS-crypto/portofolio)** | Personal portfolio website with a modern UI | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/portofolio?style=flat-square&color=1f6feb&label=) |
 | 💡 **[AI-GRATIS](https://github.com/ESTAS-crypto/AI-GRATIS)** | Curated collection of free AI tools | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/AI-GRATIS?style=flat-square&color=1f6feb&label=) |
 | 📊 **[Laporan-ibuk-](https://github.com/ESTAS-crypto/Laporan-ibuk-)** | Report management system | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/Laporan-ibuk-?style=flat-square&color=1f6feb&label=) |
 | 📍 **[track-location](https://github.com/ESTAS-crypto/track-location)** | Location utility written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/ESTAS-crypto/track-location?style=flat-square&color=1f6feb&label=) |
+
+</details>
 
 <a href="https://github.com/ESTAS-crypto?tab=repositories"><img alt="Browse all repositories" src="https://img.shields.io/badge/Browse%20all%20repositories-→-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -155,9 +164,13 @@ const evan = {
 
 <!-- ═══════════════════════════ GAMES ═══════════════════════════ -->
 
-## 🎮 Contribution Games
+## 🎮 Contribution Skyline and Games
 
 <div align="center">
+  <img width="100%" alt="3D isometric view of my GitHub contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ESTAS-crypto/ESTAS-crypto/output/github-snake.svg" />
