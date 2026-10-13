@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<a href="https://github.com/ESTAS-crypto/portofolio">
+<a href="https://portofolio-evan-atharasya.vercel.app/">
   <img width="100%" alt="Evan Atharasya, Full-Stack Developer. Animated banner with a terminal, code card and tech stack chips." src="./header.svg" />
 </a>
 
@@ -10,11 +10,15 @@
 <a href="mailto:evanatharasya@gmail.com"><img alt="Email Evan" src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/evanatharasya"><img alt="Evan on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/evanatharasya.x"><img alt="Evan on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/ESTAS-crypto/portofolio"><img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portofolio-evan-atharasya.vercel.app/"><img alt="Portfolio website" src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
-<img width="100%" alt="Technologies I work with: JavaScript, TypeScript, PHP, Python, React, Next.js, Node.js, Laravel, Tailwind, MySQL, MongoDB, Firebase, Supabase, Docker, Git, Figma" src="./marquee.svg" />
+<img width="100%" alt="Technologies I work with: JavaScript, TypeScript, PHP, Python, React, Next.js, Node.js, Laravel, Flutter, Three.js, Tailwind, Bootstrap, MySQL, MongoDB, Firebase, Supabase, Docker, Git" src="./marquee.svg" />
+
+<br/><br/>
+
+<a href="https://portofolio-evan-atharasya.vercel.app/"><img width="100%" alt="Live portfolio: dive into my work. An interactive ocean where every fish holds one project. Opens portofolio-evan-atharasya.vercel.app" src="./portfolio.svg" /></a>
 
 </div>
 
@@ -59,6 +63,12 @@ const evan = {
     <td align="center"><b>Frontend</b></td>
     <td>
       <a href="https://skillicons.dev"><img alt="React, Next.js, Tailwind CSS, Bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile &amp; 3D</b></td>
+    <td>
+      <a href="https://skillicons.dev"><img alt="Flutter, Three.js" src="https://skillicons.dev/icons?i=flutter,threejs&theme=dark" /></a>
     </td>
   </tr>
   <tr>
@@ -107,8 +117,14 @@ const evan = {
 
 <div align="center">
 
+<sub>Live demos where available. Tap a card to open it.</sub>
+
+<br/><br/>
+
+<a href="https://luvence-id.vercel.app/"><img width="49%" alt="LUVENCE ID: luxury perfume store with an interactive 3D bottle, Midtrans and Gemini AI. Built with React, Three.js and Supabase" src="./project-luvence.svg" /></a>
+<a href="https://vend-finder.vercel.app/"><img width="49%" alt="VendTrack: Growtopia market platform with DL/BGL to Rupiah rates and a real-time moderator radar. Built with Next.js, TypeScript and Supabase" src="./project-vendtrack.svg" /></a>
+<a href="https://portofolio-evan-atharasya.vercel.app/#work"><img width="49%" alt="Home Visit Reports: private offline-first Android app for health-center cadres, built with Flutter and Supabase" src="./project-kunjungan.svg" /></a>
 <a href="https://github.com/ESTAS-crypto/nextjs-ai-chatbot"><img width="49%" alt="Next.js AI Chatbot: AI-powered chatbot built with Next.js and TypeScript" src="./project-chatbot.svg" /></a>
-<a href="https://github.com/ESTAS-crypto/GenZMart-PRO"><img width="49%" alt="GenZMart PRO: e-commerce platform for a Gen-Z marketplace, built with PHP" src="./project-genzmart.svg" /></a>
 <a href="https://github.com/ESTAS-crypto/TRYOUT-SNBT"><img width="49%" alt="TRYOUT SNBT: SNBT exam simulation platform with 340+ questions" src="./project-tryout.svg" /></a>
 <a href="https://github.com/ESTAS-crypto/ManajemenKeuangan"><img width="49%" alt="Manajemen Keuangan: financial management system built with PHP" src="./project-keuangan.svg" /></a>
 
@@ -120,7 +136,6 @@ const evan = {
 
 | Project | What it does | Stack | Stars |
 |:---|:---|:---:|:---:|
-| 🌐 **[portofolio](https://github.com/ESTAS-crypto/portofolio)** | Personal portfolio website with a modern UI | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/portofolio?style=flat-square&color=1f6feb&label=) |
 | 💡 **[AI-GRATIS](https://github.com/ESTAS-crypto/AI-GRATIS)** | Curated collection of free AI tools | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/AI-GRATIS?style=flat-square&color=1f6feb&label=) |
 | 📊 **[Laporan-ibuk-](https://github.com/ESTAS-crypto/Laporan-ibuk-)** | Report management system | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/stars/ESTAS-crypto/Laporan-ibuk-?style=flat-square&color=1f6feb&label=) |
 | 📍 **[track-location](https://github.com/ESTAS-crypto/track-location)** | Location utility written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/ESTAS-crypto/track-location?style=flat-square&color=1f6feb&label=) |
